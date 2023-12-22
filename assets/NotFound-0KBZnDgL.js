@@ -1,4 +1,4 @@
-import{j as e,L as o}from"./index-Lr_KbuvF.js";import{n as s}from"./emotion-styled.browser.esm-aCa4HUhZ.js";function a(){const n=s.h1`
+import{j as e,L as o}from"./index-7HNbqFfj.js";import{n as s}from"./emotion-styled.browser.esm-ovWxt72G.js";function a(){const n=s.h1`
     color: red;
     font-weight: 100;
   `,t=s.p`
